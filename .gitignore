@@ -1,0 +1,8 @@
+ # Virtual environments
+venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+lib64
+ 
